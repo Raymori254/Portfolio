@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import Contact from "../components/contact";
 import Footer from "../components/footer";
-import Hero from "../components/hero";
 import NavBar from "../components/navbar";
 import Resume from "../components/resume";
 import Skills from "../components/skills";
+import Hero from "../components/hero";
 import Work from "../components/work";
 
 const Home = () => {
